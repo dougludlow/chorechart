@@ -37,7 +37,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Douglas Ludlown**
+* **Douglas Ludlow** 
+* **Jonny Porter** 
 
 See also the list of contributors who participated in this project.
 
