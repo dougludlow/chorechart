@@ -12,4 +12,4 @@ build :
 	dotnet build src/ChoreChart.Api/ChoreChart.Api.csproj
 
 run :
-	dotnet run -p src/ChoreChart.Api/ChoreChart.Api.csproj
+	cd src/ChoreChart.Api && dotnet watch run -p ChoreChart.Api.csproj
